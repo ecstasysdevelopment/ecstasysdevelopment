@@ -22,101 +22,38 @@
 
 ## 💻 Tech Stack
 
-<!-- 🌐 Web -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="width:700px">
-          <b>🌐 Web</b><br><br>
-          <p> 
-            <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,react,webpack,nextjs" />
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- 🛠️ FiveM -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="width:700px">
-          <b>🛠️ FiveM</b><br><br>
-          <p> 
-            <img src="https://skillicons.dev/icons?i=lua,html,css,js,tailwindcss,mysql" />
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- 🎮 Game Dev -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="width:700px">
-          <b>🎮 Game Dev</b><br><br>
-          <p> 
-            <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,lua,unity,unreal" />
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- 💻 Software Dev -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="width:700px">
-          <b>💻 Software Dev</b><br><br>
-          <p> 
-            <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,azure,cmake,flutter,nodejs,py,mysql" />
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- 🤖 Discord Dev -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="width:700px">
-          <b>🤖 Discord Dev</b><br><br>
-          <p> 
-            <img src="https://skillicons.dev/icons?i=discord,bots,discordjs,js,py" />
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- 🎨 Tools -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="width:700px">
-          <b>🎨 Tools</b><br><br>
-          <p> 
-            <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unreal,unity,figma,github,gitlab" />
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td valign="top" align="center" width="50%">
+      <b>🌐 Web</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,react,webpack,nextjs" />
+    </td>
+    <td valign="top" align="center" width="50%">
+      <b>🛠️ FiveM</b><br><br>
+      <img src="https://skillicons.dev/icons?i=lua,html,css,js,tailwindcss,mysql" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" width="50%">
+      <b>🎮 Game Dev</b><br><br>
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,lua,unity,unreal" />
+    </td>
+    <td valign="top" align="center" width="50%">
+      <b>💻 Software Dev</b><br><br>
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,azure,cmake,flutter,nodejs,py,mysql" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" width="50%">
+      <b>🤖 Discord Dev</b><br><br>
+      <img src="https://skillicons.dev/icons?i=discord,bots,discordjs,js,py" />
+    </td>
+    <td valign="top" align="center" width="50%">
+      <b>🎨 Tools</b><br><br>
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unreal,unity,figma,github,gitlab" />
+    </td>
+  </tr>
+</table>
 
 ---
 
