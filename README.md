@@ -35,12 +35,8 @@
   </tr>
   <tr>
     <td valign="top" align="center" width="50%">
-      <b>🎮 Game Dev</b><br><br>
-      <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,lua,unity" />
-    </td>
-    <td valign="top" align="center" width="50%">
-      <b>💻 Software Dev</b><br><br>
-      <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,azure,cmake,nodejs,nextjs,py,mysql" />
+      <b>🧑🏻‍🎓 Learning</b><br><br>
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,azure,cmake,nodejs,unity,unreal" />
     </td>
   </tr>
   <tr>
