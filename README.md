@@ -62,7 +62,7 @@
         <div style="width:700px">
           <b>🎮 Game Dev</b><br><br>
           <p> 
-            <img src="https://skillicons.dev/icons?i=c++,c#,lua,unreal,unity" />
+            <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,lua,unity,unreal" />
           </p>
         </div>
       </td>
