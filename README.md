@@ -30,7 +30,7 @@
         <div style="width:700px">
           <b>🌐 Web</b><br><br>
           <p> 
-            <img src="https://skillicons.dev/icons?i=lua,js,ts,py,discordjs,nodejs" />
+            <img src="https://skillicons.dev/icons?i=html5,css,js" />
           </p>
         </div>
       </td>
