@@ -47,7 +47,7 @@
 
 <table align="center">
   <tr>
-    <td valign="top" align="center" width="100%">
+    <td valign="top" align="center" width="120%">
       <b>🧑🏻‍🎓 Learning</b><br><br>
       <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,azure,cmake,nodejs,unity,unreal" />
     </td>
