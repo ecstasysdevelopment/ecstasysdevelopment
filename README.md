@@ -1,8 +1,11 @@
 <h1 align="center">Hey 👋, I'm Emko,</h1>
-<h3 align="center">
-  <img src="assets/logo.png" width="20px" style="vertical-align: middle; margin-right: 6px;" />
-  Founder of <b>Ecstasys Development</b>
-</h3>
+<p align="center">
+  <a href="https://github.com/Ecstasys-Development" target="_blank">
+    <img src="assets/logo.png" alt="Ecstasys Development Logo" height="40"/>
+  </a>
+</p>
+
+<h3 align="center">Founder of Ecstasys Development</h3>
 
 ---
 
