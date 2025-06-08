@@ -78,7 +78,23 @@
         <div style="width:700px">
           <b>💻 Software Dev</b><br><br>
           <p> 
-            <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,azure,cmake,flutter,nodejs,mysql" />
+            <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,azure,cmake,flutter,nodejs,py,mysql" />
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- 🤖 Discord Dev -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div style="width:700px">
+          <b>🤖 Discord Dev</b><br><br>
+          <p> 
+            <img src="https://skillicons.dev/icons?i=discord,bots,discordjs,js,py" />
           </p>
         </div>
       </td>
@@ -93,13 +109,9 @@
       <td>
         <div style="width:700px">
           <b>🎨 Tools</b><br><br>
-          <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-          <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-          <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-          <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-          <img src="https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+          <p> 
+            <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unreal,unity,figma,github,gitlab" />
+          </p>
         </div>
       </td>
     </tr>
