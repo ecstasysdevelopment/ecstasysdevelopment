@@ -26,7 +26,7 @@
   <tr>
     <td valign="top" align="center" width="50%">
       <b>🌐 Web</b><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,react,webpack,nextjs" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss" />
     </td>
     <td valign="top" align="center" width="50%">
       <b>🛠️ FiveM</b><br><br>
@@ -36,21 +36,21 @@
   <tr>
     <td valign="top" align="center" width="50%">
       <b>🎮 Game Dev</b><br><br>
-      <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,lua,unity,unreal" />
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,lua,unity" />
     </td>
     <td valign="top" align="center" width="50%">
       <b>💻 Software Dev</b><br><br>
-      <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,azure,cmake,flutter,nodejs,py,mysql" />
+      <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,azure,cmake,nodejs,nextjs,py,mysql" />
     </td>
   </tr>
   <tr>
     <td valign="top" align="center" width="50%">
       <b>🤖 Discord Dev</b><br><br>
-      <img src="https://skillicons.dev/icons?i=discord,bots,discordjs,js,py" />
+      <img src="https://skillicons.dev/icons?i=bots,discordjs,js,py" />
     </td>
     <td valign="top" align="center" width="50%">
       <b>🎨 Tools</b><br><br>
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unreal,unity,figma,github,gitlab" />
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,github,gitlab" />
     </td>
   </tr>
 </table>
