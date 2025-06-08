@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Emko,</h1>
 <h3 align="center">
-  <img src="https://tvuj-obrazek.cz/logo.png" width="20px" style="vertical-align: middle; margin-right: 6px;" />
+  <img src="[https://tvuj-obrazek.cz/logo.png](https://avatars.githubusercontent.com/u/215373914?s=200&v=4)" width="20px" style="vertical-align: middle; margin-right: 6px;" />
   Founder of <b>Ecstasys Development</b>
 </h3>
 
