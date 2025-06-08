@@ -70,8 +70,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecstasysdevelopment&show_icons=true&theme=tokyonight&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecstasysdevelopment&layout=compact&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ecstasysdevelopment&show_icons=true&theme=dark&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecstasysdevelopment&layout=compact&theme=dark" width="47%" />
 </p>
 
 ---
