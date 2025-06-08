@@ -35,18 +35,18 @@
   </tr>
   <tr>
     <td valign="top" align="center" width="50%">
-      <b>🧑🏻‍🎓 Learning</b><br><br>
-      <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,azure,cmake,nodejs,unity,unreal" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="center" width="50%">
       <b>🤖 Discord Dev</b><br><br>
       <img src="https://skillicons.dev/icons?i=bots,discordjs,js,py" />
     </td>
     <td valign="top" align="center" width="50%">
       <b>🎨 Tools</b><br><br>
       <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,github,gitlab" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" width="100%">
+      <b>🧑🏻‍🎓 Learning</b><br><br>
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,azure,cmake,nodejs,unity,unreal" />
     </td>
   </tr>
 </table>
