@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a8f4438f-1f65-4482-b42e-4c31e7a68556)<h1 align="center">Hey 👋, I'm Ecstasys</h1>
+<h1 align="center">Hey 👋, I'm Ecstasys</h1>
 <p align="center">
   🔧 Full Stack Developer | 🎮 FiveM Scripter | 🎨 UI/UX Designer | 💻 A bit of software developer
 </p>
