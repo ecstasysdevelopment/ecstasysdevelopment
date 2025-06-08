@@ -1,4 +1,7 @@
-<h1 align="center">Hey 👋, I'm Emko,</h1>
+<h1 align="center">Hey 👋, I'm Emko.</h1>
+
+---
+
 <h3 align="center">
   <a href="https://github.com/Ecstasys-Development" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="assets/logo.png" alt="Ecstasys Logo" width="50" height="50" style="vertical-align: middle; margin-right: 8px;">
