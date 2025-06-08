@@ -30,7 +30,7 @@
         <div style="width:700px">
           <b>🌐 Web</b><br><br>
           <p> 
-            <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,react,webpack,nextjs" />
           </p>
         </div>
       </td>
