@@ -113,8 +113,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecstasysdevelopment&show_icons=truet&theme=dark&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecstasysdevelopment&layout=compact&theme=dark" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ecstasysdevelopment&show_icons=truet&theme=transparent&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecstasysdevelopment&layout=compact&theme=transparent" width="44%" />
 </p>
 
 <p align="center">
