@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;FiveM+Scripter+%26+UI+Designer;Clean+Code+%26+Performance+Lover;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;FiveM+Scripter+%26+UI+Designer;Clean+Code+%26+Performance+Lover;Always+Learning+New+Things;Currently+Learning+C++" alt="Typing SVG" />
 </p>
 
 ---
