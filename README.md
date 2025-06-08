@@ -40,7 +40,7 @@
     </td>
     <td valign="top" align="center" width="50%">
       <b>🎨 Tools</b><br><br>
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,github,gitlab" />
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,github,gitlab,discord" />
     </td>
   </tr>
   </table>
