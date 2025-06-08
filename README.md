@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Emko</h1>
-<h2 align="center">And I am the founder of Ecstasys Development</h2>
+<h3 align="center">And I am the founder of Ecstasys Development</h3>
 <p align="center">
   🔧 Full Stack Developer | 🎮 FiveM Scripter | 🎨 UI/UX Designer | 💻 A bit of software developer
 </p>
