@@ -112,9 +112,9 @@
 
 ## 🚀 Currently Working On
 
-- 🎮 Full FiveM ecosystem: Loading, multichar, UI, ban systems  
-- 📊 Localhost dashboards linked to real game data  
-- 🧠 Advanced UI/UX design for RP servers  
+- 🎮 Some very advanced FiveM scripts for RP or also PVP servers
+- 📊 A localhost dashboard for a Lego Spike car in Python and JS  
+- 🧠 Advanced and very good UI/UX design for my FiveM scripts 
 - 💡 Clean, modular & optimized scripts  
 
 ---
