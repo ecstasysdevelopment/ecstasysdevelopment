@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Emko,</h1>
-<p align="center">and I am the founder of Ecstasys Development</p>
+<p align="center">Founder of Ecstasys Development</p>
 
 ---
 
