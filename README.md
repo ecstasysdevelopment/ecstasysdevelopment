@@ -12,7 +12,7 @@
 ## 💻 Tech Stack
 ### 🌐 Web Development | 🎮 FiveM Development | 🎮 Game & App Dev | 🎨 Design & Tools
 
-<table align="center">
+<table align="left">
   <tr>
     <td valign="top"><b>🌐 Web</b><br><br>
       <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -27,7 +27,7 @@
   </tr>
 </table>
     
-<table align="center">
+<table align="left">
   <tr>
     <td valign="top"><b>🛠️ FiveM</b><br><br>
       <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
@@ -41,7 +41,7 @@
   </tr>
 </table>
     
-<table align="center">
+<table align="left">
   <tr>
     <td valign="top"><b>🎮 Game Dev</b><br><br>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -53,7 +53,7 @@
   </tr>
 </table>
     
-<table align="center">
+<table align="left">
   <tr>
     <td valign="top"><b>🎨 Tools</b><br><br>
       <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
