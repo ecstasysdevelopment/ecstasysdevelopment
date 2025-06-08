@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Emko,</h1>
 <h3 align="center">
   <a href="https://github.com/Ecstasys-Development" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="assets/logo.png" alt="Ecstasys Logo" width="24" height="24" style="vertical-align: middle; margin-right: 8px;">
+    <img src="assets/logo.png" alt="Ecstasys Logo" width="35" height="35" style="vertical-align: middle; margin-right: 8px;">
     Founder of <span style="color: #3B82F6;">Ecstasys Development</span>
   </a>
 </h3>
