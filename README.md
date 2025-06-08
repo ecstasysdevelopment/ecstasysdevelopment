@@ -44,7 +44,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" align="center" width="100%">
+    <td valign="top" align="center" width="50%">
       <b>🧑🏻‍🎓 Learning</b><br><br>
       <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,azure,cmake,nodejs,unity,unreal" />
     </td>
