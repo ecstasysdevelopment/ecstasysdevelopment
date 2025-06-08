@@ -121,7 +121,7 @@
 
 ## 🤝 Connect with Me
 
-- 💬 Discord: `ecstasys.dev`  
+- 💬 Discord: `emko.gfx`  
 - 🌍 GitHub: [@ecstasysdevelopment](https://github.com/ecstasysdevelopment)
 
 ---
@@ -131,5 +131,5 @@
 </p>
 
 <p align="center">
-  ⭐️ If you like my work, consider starring a repo – it motivates me to do more cool stuff!
+  ⭐️ If you like my work, consider starring a repo, please xd!
 </p>
