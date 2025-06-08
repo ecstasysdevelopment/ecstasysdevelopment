@@ -43,8 +43,11 @@
       <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,github,gitlab" />
     </td>
   </tr>
+  </table>
+
+<table align="center">
   <tr>
-    <td valign="top" align="center" width="50%">
+    <td valign="top" align="center" width="100%">
       <b>🧑🏻‍🎓 Learning</b><br><br>
       <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,azure,cmake,nodejs,unity,unreal" />
     </td>
