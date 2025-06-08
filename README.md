@@ -49,7 +49,7 @@
   <tr>
     <td valign="top" align="center" width="100%">
       <b>🧑🏻‍🎓 Learning</b><br><br>
-      <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,azure,cmake,nodejs,unity,unreal,arduino,blender" />
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,azure,cmake,nodejs,unity,unreal,arduino,flutter,blender" />
     </td>
   </tr>
 </table>
