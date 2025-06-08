@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Ecstasys</h1>
 <p align="center">
-  🔧 Full Stack Developer | 🎮 FiveM Scripter | 🎨 UI/UX Designer
+  🔧 Full Stack Developer | 🎮 FiveM Scripter | 🎨 UI/UX Designer | 💻 A bit of software developer
 </p>
 
 <p align="center">
