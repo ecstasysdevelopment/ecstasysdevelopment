@@ -10,7 +10,6 @@
 ---
 
 ## 💻 Tech Stack
-### 🌐 Web Development | 🎮 FiveM Development | 🎮 Game & App Dev | 🎨 Design & Tools
 
 <table align="center">
   <tr>
